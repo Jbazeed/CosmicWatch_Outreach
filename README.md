@@ -10,5 +10,7 @@ This repository houses all supplementary materials for our muon detection outrea
 Our project builds upon the work of the CosmicWatch Desktop Muon Detector, developed by Spencer N. Axani et al.. We extend our gratitude for their open-source contributions, which have been instrumental to our work.​
 
 **Official CosmicWatch Resources:**
+
 Website: http://www.cosmicwatch.lns.mit.edu
+
 GitHub Repository: https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2
